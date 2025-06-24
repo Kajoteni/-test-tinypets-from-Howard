@@ -1,6 +1,6 @@
 remote_theme: Hacker
 plugins:
-- jekyll-remote-theme
+Hacker
 
 title: Jeremy Howard
 description: Some basic examples of client interfaces to a computer vision API
